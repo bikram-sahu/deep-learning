@@ -1,6 +1,6 @@
 # Readme
 
-Here we use [Recuurent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network) to do [POS Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging) of Hindi sentences. [Pytorch](https://pytorch.org/) deeplearning library is used for this purpose.
+Here we use [Recurrent Neural Network](https://en.wikipedia.org/wiki/Recurrent_neural_network) to do [POS Tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging) of Hindi sentences. [Pytorch](https://pytorch.org/) deeplearning library is used for this purpose.
 
 
 ## Dataset
